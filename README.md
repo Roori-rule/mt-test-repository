@@ -1,1 +1,1 @@
-# mt-test-repository
+# my-test-repository
